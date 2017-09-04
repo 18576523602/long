@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NiceVieoPlayer.iml" filepath="$PROJECT_DIR$/NiceVieoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NiceVieoPlayer-master.iml" filepath="$PROJECT_DIR$/NiceVieoPlayer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atest/atest.iml" filepath="$PROJECT_DIR$/atest/atest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileshare/fileshare.iml" filepath="$PROJECT_DIR$/fileshare/fileshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nicevideoplayer/nicevideoplayer.iml" filepath="$PROJECT_DIR$/nicevideoplayer/nicevideoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ripplebutton/ripplebutton.iml" filepath="$PROJECT_DIR$/ripplebutton/ripplebutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vediobg/vediobg.iml" filepath="$PROJECT_DIR$/vediobg/vediobg.iml" />
+    </modules>
+  </component>
+</project>
